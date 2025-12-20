@@ -146,7 +146,7 @@ Rs = (5.0 − 0.068) / 0.068 ≈ 72.5 Ω
 - I uploaded the updated detection code
 - Then reopened the Serial Monitor
 
-## **Final Result:**
+## **Final Result of software calibration phase:**
 
 - Rs/R0 ratio stabilized around 1.0
 
