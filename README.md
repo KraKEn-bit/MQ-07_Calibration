@@ -140,7 +140,7 @@ Vout = 14 × (5.0 / 1023.0) ≈ 0.068 V
 
 Rs = (5.0 − 0.068) / 0.068 ≈ 72.5 Ω
 
-
+---
 
 ### **After that:**
 - I uploaded the updated detection code
