@@ -159,7 +159,7 @@ Rs = (5.0 − 0.068) / 0.068 ≈ 72.5 Ω
 
 
 
-## **Analysis of Test Results while Lighting up a match:**
+# **Analysis of Test Results after Lighting up a match:**
 
 ### **Detection Period:**
 - At **01:47:35.802**, the sensor detected the presence of smoke instantly.  
