@@ -157,7 +157,7 @@ Rs = (5.0 − 0.068) / 0.068 ≈ 72.5 Ω
 
 
 
-
+---
 
 # **Analysis of Test Results after Lighting up a match:**
 
