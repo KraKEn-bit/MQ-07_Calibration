@@ -34,7 +34,7 @@ The MQ-07 module has **4 pins**:
 | **DO** | Digital output (HIGH/LOW, threshold-based) |
 | **AO** | Analog output (0–5V, used for calibration) |
 
-> This project uses **Analog Output (AO)** for accurate calibration.
+This project uses **Analog Output (AO)** for accurate calibration.
 
 ---
 
