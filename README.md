@@ -155,3 +155,28 @@ Rs = (5.0 − 0.068) / 0.068 ≈ 72.5 Ω
 - Sensor readings became consistent and realistic
 
 
+
+
+
+
+## **Analysis of Test Results while Lighting up a match:**
+
+### **Detection Period:**
+- At **01:47:35.802**, the sensor detected the presence of smoke instantly.  
+- The **raw analog value increased sharply from 14 to 139**, confirming that the MQ-07 sensor is **physically active** and **highly sensitive to Carbon Monoxide (CO)**.
+
+---
+
+### **Accuracy:**
+The calculated **CO concentration spiked to 4140.55 PPM**, which is consistent with expected readings from a **concentrated smoke source**, such as a recently blown-out match.
+
+---
+
+### **Safety Alert**
+The system successfully triggered the alert message that I implemented at last:
+
+```text
+!!! WARNING: HIGH CO LEVELS !!!
+
+
+
