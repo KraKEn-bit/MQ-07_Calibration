@@ -136,6 +136,18 @@ So I calculated the Voltage and used that to find the Rs value which then will r
 
 Vout = 14 × (5.0 / 1023.0) ≈ 0.068 V
 
+### **After that:**
+- I uploaded the updated detection code
+- Then reopened the Serial Monitor
+
+## **Final Result:**
+
+- Rs/R0 ratio stabilized around 1.0
+
+- CO concentration stabilized near 100 PPM
+
+- Sensor readings became consistent and realistic
+
 ### **Sensor Resistance Calculation:**
 
 Rs = (5.0 − 0.068) / 0.068 ≈ 72.5 Ω
